@@ -1,7 +1,28 @@
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: center;
-  }
+body {
+  margin: auto;
+  width: 400px; 
+  padding: 50px;
+  color: #33475b;    
+}
+
+/* Centered Image Code */
+
+img {
+  display: block;
+  width: 400px;
+  margin: auto;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.highlight {
+  background-color: orange;
+}
+
+.colorText {
+  color: red;
+  font-weight: bold;
+  
+}
