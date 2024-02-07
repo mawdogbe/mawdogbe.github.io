@@ -1,15 +1,14 @@
 body {
   margin: auto;
-  width: 400px; 
+  width: 350px; 
   padding: 50px;
-  color: #33475b;    
 }
 
 /* Centered Image Code */
 
 img {
   display: block;
-  width: 400px;
+  width: 350px;
   margin: auto;
 }
 
